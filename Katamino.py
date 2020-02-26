@@ -1,3 +1,9 @@
+# Ce programme est fourni par Top Maths
+# sans aucune garantie de fonctionnement
+# Vous pouvez l'utiliser à votre guise,
+# mais ce serai sympa de me faire de la pub en échange...
+
+
 from Pieces import Pieces
 import tkinter as tk
 from Graphe import Grille
